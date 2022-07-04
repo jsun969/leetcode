@@ -3,7 +3,6 @@
     "strict": true,
     "module": "ESNext",
     "target": "ESNext",
-    "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "sourceMap": true,
     "baseUrl": "./src",
